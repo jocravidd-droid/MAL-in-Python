@@ -1,4 +1,4 @@
-# MAL — Make A Lisp in Python
+# MAL — Make A Lisp in Python ( Draft )
 
 A minimal Lisp interpreter written in Python. It reads an S-expression typed by the user, parses it into a nested Python list, evaluates it, and prints the result — the classic READ / EVAL / PRINT loop.
 
